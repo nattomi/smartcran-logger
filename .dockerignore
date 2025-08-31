@@ -1,0 +1,7 @@
+target
+.git
+.gitignore
+**/*.rs.bk
+**/*.swp
+**/*.swo
+**/*.log
